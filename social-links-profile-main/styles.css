@@ -73,6 +73,13 @@ ul {
   transition: 0.3s;
 }
 
+.btn-flex i {
+  margin-left: 10px;
+  font-size: 20px;
+  position: relative;
+  top: 1px;
+}
+
 /* Media Queries */
 @media (max-width: 576px) {
   .card {
