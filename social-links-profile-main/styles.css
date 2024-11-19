@@ -9,6 +9,7 @@ body {
   line-height: 1.6;
   background-color: hsl(0, 0%, 8%);
   color: #fff;
+  overflow: hidden;
 }
 
 a {
@@ -22,7 +23,7 @@ ul {
 
 .card {
   max-width: 400px;
-  margin: 350px auto;
+  margin: 200px auto;
   background-color: hsl(0, 0%, 12%);
   text-align: center;
   padding: 40px;
